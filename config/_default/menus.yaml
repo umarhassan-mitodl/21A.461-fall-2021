@@ -1,0 +1,36 @@
+leftnav:
+- identifier: 552aaf69-ab89-4a30-9e42-e4fe03b4e017
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 67cc7a42-2362-4f74-9ccc-7da913c07d28
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: 6b463540-b398-4933-89b0-2f8cf618c7ea
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: db4bbeb0-b4c2-4cfb-ac6d-fa5acd5aa139
+  name: Lecture Slides
+  pageRef: /pages/lecture-slides
+  weight: 40
+- identifier: 733c3211-0f39-48ec-8fce-77d7c34aa1cc
+  name: Assignments
+  pageRef: /pages/assignments
+  weight: 50
+- identifier: 2739a554-0f42-4e2d-9004-77d19f121d98
+  name: Essay 1
+  pageRef: /pages/essay-1
+  parent: 733c3211-0f39-48ec-8fce-77d7c34aa1cc
+  weight: 10
+- identifier: db6544ec-fe7e-4b2c-a73a-40a66b6a2c12
+  name: Essay 2
+  pageRef: /pages/essay-2
+  parent: 733c3211-0f39-48ec-8fce-77d7c34aa1cc
+  weight: 20
+- identifier: b4975864-4a76-4637-8bd7-3a036bb552bb
+  name: Final Paper
+  pageRef: /pages/final-paper
+  parent: 733c3211-0f39-48ec-8fce-77d7c34aa1cc
+  weight: 30

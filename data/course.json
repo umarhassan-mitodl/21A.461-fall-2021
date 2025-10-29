@@ -1,0 +1,54 @@
+{
+  "term": "Fall",
+  "year": "2021",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Social Science",
+      "Anthropology",
+      "Cultural Anthropology"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Ethnography"
+    ],
+    [
+      "Social Science",
+      "Anthropology",
+      "Social Anthropology"
+    ]
+  ],
+  "legacy_uid": "",
+  "instructors": {
+    "content": [
+      "f6f1005e-3478-bdfa-e890-76bc32ef64ae"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "01b9c51d-ce62-4f12-9796-3b7b4a051f68",
+    "website": "what-is-capitalism"
+  },
+  "course_title": "What is Capitalism?",
+  "course_description": "This course introduces academic debates on the nature of capitalism, drawing upon the ideas of scholars as diverse as Adam Smith and Karl Marx. It examines anthropological studies of how contemporary capitalism plays out in people's daily lives in a range of geographic and social settings, and implications for how we understand capitalism today. Settings range from Wall Street investment banks to auto assembly plants, from family businesses to consumer shopping malls.",
+  "department_numbers": [
+    "21A"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "21A.461",
+  "course_image_thumbnail": {
+    "content": "4a3fffa2-43a7-46ed-a8db-2e4fcbb50985",
+    "website": "what-is-capitalism"
+  },
+  "learning_resource_types": [
+    "Lecture Notes",
+    "Written Assignments",
+    "Readings"
+  ],
+  "site_uid": "21dd2dfc-ba15-44bf-ba69-43749a7f9a4a",
+  "site_short_id": "21A.461-fall-2021",
+  "site_url_path": "courses/21a-461-what-is-capitalism-fall-2021"
+}
